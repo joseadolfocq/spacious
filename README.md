@@ -1,0 +1,2 @@
+# spacious
+ Wordpress theme
